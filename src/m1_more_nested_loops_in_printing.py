@@ -80,6 +80,7 @@ def triangle_right_justified(r):
             print(i + 1, end='')
         print()
 
+
 def run_test_triangle_upside_down():
     """ Tests the    triangle_upside_down    function. """
     print()
